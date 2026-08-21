@@ -1,0 +1,9 @@
+# FFmpeg is also required as a separately installed system dependency.
+openai-whisper
+sounddevice
+numpy
+scipy
+wavio
+sympy
+mpmath
+requests
